@@ -19,5 +19,5 @@ class Donde extends Component {
     }
 }
 export default GoogleApiWrapper({
-    apiKey: ('AIzaSyASPnMx0424fYtAcg_2jVxGQcmNNGCSUV4')
+    apiKey: ('API_KEY_HERE')
   })(Donde)
